@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BrightScreenTV
-- 🌱 I’m currently learning Unity 3D
-- I can do Swift, Obj-C and web stuff.
-- Definitely a Jack of all trades, etc....!
-- But I love coding. Except when I can't get a bug squashed....
+- I can do Swift, SwiftUI, Obj-C and web stuff.
+- 
+- I love coding. Except when I can't get a bug squashed.
 
 
 <!---
