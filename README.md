@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrightScreenTV
-- I can do Swift, SwiftUI, Obj-C and web stuff.
+- I can do Swift, SwiftUI, [Micro]Python and web stuff.
 - 
 - I love coding. Except when I can't get a bug squashed.
 
